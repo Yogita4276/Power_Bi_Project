@@ -15,6 +15,8 @@ The goal is to build an end-to-end dashboard that:
 
 ---
 
+Access the datsets:
+[Download the full notebook and data files via Google Drive](https://drive.google.com/drive/folders/15X22CXM48BA6wEw7PMzK4bX66N-tiTST)
 
 ## 🗂 Data Sources
 
