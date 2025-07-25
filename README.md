@@ -82,6 +82,7 @@ Credit_Card_PowerBI_Project/
 ```
 
 ▶️ How to Run 
+
 1.To explore the dashboard on your system:
 
 2.Download Power BI Desktop
