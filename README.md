@@ -53,7 +53,7 @@ These tables were cleaned and loaded into Power BI, with relationships built bas
 
 ##  Sample Insights
 
--  **Gold Card users generate the highest transaction volume**
+-  **Blue Card users generate the highest transaction volume**
 -  **Customers with higher education tend to spend more**
 -  **Revenue peaks during specific weeks—likely promotional periods**
 -  **Married customers and those with personal loans are more active**
