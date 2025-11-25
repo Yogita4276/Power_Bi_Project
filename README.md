@@ -1,10 +1,10 @@
-# 💳 Credit Card Customer Insights Dashboard – Power BI Project
+#  Credit Card Customer Insights Dashboard – Power BI Project
 
 This project presents an interactive Power BI dashboard built to analyze customer demographics and credit card transaction data. It reveals key patterns in customer behavior, revenue generation, and card usage across different segments.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 Credit card companies need to understand **who their customers are**, **how they spend**, and **which products are profitable**. This dashboard turns raw transactional and demographic data into business intelligence to support strategic decisions.
 
@@ -15,7 +15,7 @@ The goal is to build an end-to-end dashboard that:
 
 ---
 
-## 📁 Access The Dataset
+##  Access The Dataset
 
 [Download the full notebook and data files via Google Drive](https://drive.google.com/drive/folders/15X22CXM48BA6wEw7PMzK4bX66N-tiTST)
 
@@ -41,7 +41,7 @@ These tables were cleaned and loaded into Power BI, with relationships built bas
 
 ---
 
-## 🎯 Analysis Objectives
+##  Analysis Objectives
 
 1. Segment customers based on age, gender, income, and education
 2. Evaluate performance across different card categories
@@ -51,30 +51,30 @@ These tables were cleaned and loaded into Power BI, with relationships built bas
 
 ---
 
-## 🔍 Sample Insights
+##  Sample Insights
 
-- 💳 **Gold Card users generate the highest transaction volume**
-- 👩‍🎓 **Customers with higher education tend to spend more**
-- 💸 **Revenue peaks during specific weeks—likely promotional periods**
-- ❤️ **Married customers and those with personal loans are more active**
+-  **Gold Card users generate the highest transaction volume**
+-  **Customers with higher education tend to spend more**
+-  **Revenue peaks during specific weeks—likely promotional periods**
+-  **Married customers and those with personal loans are more active**
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Power BI Desktop** – Dashboard building & data modeling
 - **DAX** – Measures and calculated columns
-- **Excel/CSV** – Source data files
+- **Excel** – Source data files
   
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```plaintext
 Credit_Card_PowerBI_Project/
 │
-├── Credit_Card_Customer_Insights_PowerBI_Project.pbix     # Main Power BI file
+├── Credit_Card_Customer_Insights_PowerBI_Project.pbix      # Main Power BI file
 ├── Customer_Demographics_Data.xlsx                         # Customer data
 ├── Credit_Card_Transactions_Data.xlsx                      # Transaction data
 ├── README.md                                               # Project documentation
