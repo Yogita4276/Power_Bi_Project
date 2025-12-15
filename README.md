@@ -43,11 +43,10 @@ These tables were cleaned and loaded into Power BI, with relationships built bas
 
 ##  Analysis Objectives
 
-1. Segment customers based on age, gender, income, and education
-2. Evaluate performance across different card categories
-3. Track total transaction amount, revenue, and interest earned
-4. Identify trends over time (week-by-week)
-5. Find correlations between customer demographics and financial behavior
+1. Analyze transaction volume across card categories
+2. Study the impact of customer education level on spending behavior
+3. Identify weekly trends and revenue peaks in credit card transactions
+4. Find correlations between customer demographics and financial behavior
 
 ---
 
